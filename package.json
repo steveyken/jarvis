@@ -5,7 +5,7 @@
   "author": "Steve Kenworthy",
   "description": "A simple helpful robot experiment",
   "scripts": {
-    "start": "bash ./bin/hubot"
+    "start": "node server.js"
   },
   "dependencies": {
     "coffee-script": "^1.10.0",
