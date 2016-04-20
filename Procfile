@@ -1,1 +1,1 @@
-web: bin/hubot -a flowdock
+web: bin/hubot -n jarvis -a flowdock
